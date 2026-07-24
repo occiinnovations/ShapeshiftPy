@@ -1,8 +1,8 @@
-# ShapeshiftPy
+# ShapeshiftPy 📐
 
-A high-performance, deterministic 2D and 3D geometric shape generation and rendering engine built using pure numerical matrix manipulations with NumPy and Matplotlib. 
+A simple Python script that lets you choose a geometric shape in the terminal, type in your custom coordinates and dimensions, and plot it on a grid using NumPy arrays and Matplotlib. 
 
-ShapeshiftPy bypasses high-level computer vision and graphic framework shortcuts (like OpenCV drawing primitives). Instead, it maps complex geometric spaces entirely from scratch using vectorized linear algebra, algebraic distance inequalities, and coordinate transformations.
+This project is a straightforward math-to-grid sandbox built without relying on heavy game engines or extra drawing frameworks.
 
 ---
 
