@@ -1,0 +1,16 @@
+# Ignore python virtual environments
+.basicnumpy/
+venv/
+ENVIRONMENTS/
+
+# Ignore Python runtime caches
+__pycache__/
+*.pyc
+
+# Ignore OS-specific configuration junk
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific folders if you use them
+.vscode/
+.idea/
